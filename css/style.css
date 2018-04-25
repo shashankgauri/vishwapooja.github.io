@@ -237,7 +237,7 @@ input, textarea {
 	top: 0px;
 }
 .bg-loveline {
-	background: url(https://lithemes.com/lovebirds/horizontal-menu/images/loveline-back.jpg) no-repeat center center;
+	background: url(../images/timeline-slider/love-line.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -272,14 +272,14 @@ input, textarea {
 	background-size: cover;
 }
 .bg-couple {
-	background: url(https://lithemes.com/lovebirds/horizontal-menu/images/couple-back.jpg) no-repeat center center;
+	background: url(../images/background/couple-back.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .bg-home {
-	background: url(https://lithemes.com/lovebirds/horizontal-menu/images/home-back.jpg) no-repeat center center;
+	background: url(../images/background/home-back.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
