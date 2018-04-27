@@ -237,11 +237,12 @@ input, textarea {
 	top: 0px;
 }
 .bg-loveline {
-	background: url(../images/timeline-slider/love-line.jpg) no-repeat center center;
+	background: url(../images/background/couple-back.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	margin-top: 80px!important;
 }
 .bg-people {
 	background: url(https://lithemes.com/lovebirds/horizontal-menu/images/people-back.jpg) no-repeat center center;
