@@ -244,14 +244,14 @@ input, textarea {
 	background-size: cover;
 }
 .bg-people {
-	background: url(https://lithemes.com/lovebirds/horizontal-menu/images/people-back.jpg) no-repeat center center;
+	background: url(../images/background/people-back.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .bg-wedding {
-	background: url(https://lithemes.com/lovebirds/horizontal-menu/images/wedding-back.jpg) no-repeat center center;
+	background: url(../images/background/wedding-back.jpg) no-repeat center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
