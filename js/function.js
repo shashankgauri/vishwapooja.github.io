@@ -55,7 +55,7 @@ $(document).on('ready', function () {
 
      // JavaScript Document
    var today = new Date();
-   var target = new Date('05/12/2018 00:00:01'); //Enter Target date & time - MM/DD/YYYY hh:mm:ss
+   var target = new Date('05/12/2018 18:58:00'); //Enter Target date & time - MM/DD/YYYY hh:mm:ss
    var startdate = new Date('04/1/2016'); //Enter Timer start date or Today's date - MM/DD/YYYY
    if ($.find('.countdown').length) {
        $('.countdown').final_countdown({
